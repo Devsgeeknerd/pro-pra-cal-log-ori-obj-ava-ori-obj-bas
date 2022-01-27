@@ -1,19 +1,24 @@
-Body{
+Body {
     background-color: #0000ff;
     color: #ffffff;
 }
-h1{
+
+h1 {
     color: #ff0000;
 }
-img{
+
+img {
     width: 200px;
 }
-.teste{
+
+.teste {
     width: 500px;
 }
-#titulo{
+
+#titulo {
     font-size: 12px;
 }
-.teste2{
+
+.teste2 {
     background-color: #fff000;
 }
