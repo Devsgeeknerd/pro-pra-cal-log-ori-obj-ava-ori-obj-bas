@@ -1,28 +1,44 @@
 <!-- TITLE -->
 # Classes e IDs
 
-* ***id***
-> É usado para selecionar apenas um elemento especifico na página.
-* ***class***
-> Pode ser usado em todos os elementos que usarem essa classe.
-* ***class e id***
-> Podem ser usados juntos.
+```html
+    <h1 id="titulo"></h1>
+```
 
+* ***id***
+
+> É usado para selecionar apenas um elemento especifico na página.
+
+```html
+    <h1 class="titulo"></h1>
+```
+
+* ***class***
+
+> Pode ser usado em todos os elementos que usarem essa classe.
+
+```html
+    <h1 id="titulo" class="titulo2"></h1>
+```
+
+* ***class e id***
+
+> Podem ser usados juntos.
 
 <!-- TABLE OF CONTENTS -->
 ## TABELA DE CONTEÚDO
 
-<!-- - [Vista por cima](#vista-por-cima) -->
-<!--  - [Foto da tela](#foto-da-tela) -->
-<!--  - [Links](#links) -->
-<!-- - [Meu processo](#meu-processo) -->
-<!--  - [Contruido com](#construido-com) -->
-<!--  - [O que aprendi](#o-que-aprendi) -->
-<!--  - [Desenvolvimento contínuo](#desenvolvimento-contínuo) -->
-<!--  - [Recusos úteis](#recursos-úteis) -->
-<!-- - [Autor](#autor) -->
-<!-- - [Agradecimentos](#agradecimentos) -->
-- [Informações](#informações)
+<!-- * [Vista por cima](#vista-por-cima) -->
+<!--  * [Foto da tela](#foto-da-tela) -->
+<!--  * [Links](#links) -->
+<!-- * [Meu processo](#meu-processo) -->
+<!--  * [Contruido com](#construido-com) -->
+<!--  * [O que aprendi](#o-que-aprendi) -->
+<!--  * [Desenvolvimento contínuo](#desenvolvimento-contínuo) -->
+<!--  * [Recusos úteis](#recursos-úteis) -->
+<!-- * [Autor](#autor) -->
+<!-- * [Agradecimentos](#agradecimentos) -->
+* [Informações](#informações)
 
 <!-- OVERVIEW -->
 <!-- ## VISTA POR CIMA -->
