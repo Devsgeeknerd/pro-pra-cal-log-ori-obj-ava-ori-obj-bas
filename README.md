@@ -1,88 +1,27 @@
-<!-- TITLE -->
-# Classes e IDs
+<!-- Título -->
+# Projeto Prático — Calculadora
 
-```html
-    <h1 id="titulo"></h1>
-```
+***Conteúdo do Projeto:***
 
-* ***id***
+* [ ] [Projeto Calculadora — Parte 1.](https://github.com/Devsgeeknerd/pro-pro-cal-par-1-pro-pra-cal-log-ori-obj-ava-ori-obj-bas) &#128679;
+* [ ] [Projeto Calculadora — Parte 2.](https://github.com/Devsgeeknerd/pro-pro-cal-par-2-pro-pra-cal-log-ori-obj-ava-ori-obj-bas) &#128679;
+* [ ] [Projeto Calculadora — Parte 3.](https://github.com/Devsgeeknerd/pro-pro-cal-par-3-pro-pra-cal-log-ori-obj-ava-ori-obj-bas) &#128679;
+* [ ] [Projeto Calculadora — Parte 4.](https://github.com/Devsgeeknerd/pro-pro-cal-par-4-pro-pra-cal-log-ori-obj-ava-ori-obj-bas) &#128679;
+* [ ] [Projeto Calculadora — Parte 5.](https://github.com/Devsgeeknerd/pro-pro-cal-par-5-pro-pra-cal-log-ori-obj-ava-ori-obj-bas) &#128679;
 
-> É usado para selecionar apenas um elemento especifico na página.
+<!-- Informações -->
+## &#8505; Informações
 
-```html
-    <h1 class="titulo"></h1>
-```
-
-* ***class***
-
-> Pode ser usado em todos os elementos que usarem essa classe.
-
-```html
-    <h1 id="titulo" class="titulo2"></h1>
-```
-
-* ***class e id***
-
-> Podem ser usados juntos.
-
-<!-- TABLE OF CONTENTS -->
-## TABELA DE CONTEÚDO
-
-<!-- * [Vista por cima](#vista-por-cima) -->
-<!--  * [Foto da tela](#foto-da-tela) -->
-<!--  * [Links](#links) -->
-<!-- * [Meu processo](#meu-processo) -->
-<!--  * [Contruido com](#construido-com) -->
-<!--  * [O que aprendi](#o-que-aprendi) -->
-<!--  * [Desenvolvimento contínuo](#desenvolvimento-contínuo) -->
-<!--  * [Recusos úteis](#recursos-úteis) -->
-<!-- * [Autor](#autor) -->
-<!-- * [Agradecimentos](#agradecimentos) -->
-* [Informações](#informações)
-
-<!-- OVERVIEW -->
-<!-- ## VISTA POR CIMA -->
-
-<!-- SCREENSHOT -->
-<!-- ### FOTO DA TELA -->
-
-<!-- LINKS -->
-<!-- ### LINKS -->
-
-<!-- MY PROCESS -->
-<!-- ## MEU PROCESSO -->
-
-<!-- BUILT WITH -->
-<!-- ### CONSTRUIDO COM -->
-
-<!-- WHAT I LEARNED -->
-<!-- ### O QUE APRENDI -->
-
-<!-- CONTINUED DEVELOPMENT -->
-<!-- ### DESENVOLVIMENTO CONTÍNUO -->
-
-<!-- USEFUL RESOURCES -->
-<!-- ### RECURSOS ÚTEIS -->
-
-<!-- AUTHOR -->
-<!-- ## AUTOR -->
-
-<!-- ACKNOWLEDGMENTS -->
-<!-- ## AGRADECIMENTOS -->
-
-<!-- INFORMATION -->
-## INFORMAÇÕES
-
-![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fclas-e-ids&label=Visitantes&labelColor=%23f9e64f&countColor=%23008000&style=plastic "Total de Visitas")
+![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fpro-pra-cal-log-ori-obj-ava-ori-obj-bas&label=Visitantes&labelColor=%23700070&labelStyle=none&countColor=%23000fff&style=plastic&color=%23ffffff "Total de Visitantes")
 &nbsp;
-![followrs](https://img.shields.io/github/followers/Devsgeeknerd?style=plastic&label=SEGUIDORES&labelColor=f9e64f "Total de Seguidores")
+![Followers](https://img.shields.io/github/followers/Devsgeeknerd?style=p&label=Seguidores&labelColor=800080&color=000fff "Total de Seguidores")
 &nbsp;
-![watchers](https://img.shields.io/github/watchers/Devsgeeknerd/clas-e-ids?style=plastic&label=OBSERVADORES&labelColor=f9e64f "Total de Observadores")
+![Watchers](https://img.shields.io/github/watchers/Devsgeeknerd/pro-pra-cal-log-ori-obj-ava-ori-obj-bas?style=p&label=Observadores&labelColor=800080&color=000fff "Total de Observadores")
 &nbsp;
-![stars](https://img.shields.io/github/stars/Devsgeeknerd/clas-e-ids?style=plastic&label=ESTRELAS&labelColor=f9e64f "Total de Estrelas Recebidas")
+![Stars](https://img.shields.io/github/stars/Devsgeeknerd/pro-pra-cal-log-ori-obj-ava-ori-obj-bas?style=p&label=Estrelas&labelColor=800080&color=000fff "Total de Estrelas")
 &nbsp;
-![forks](https://img.shields.io/github/forks/Devsgeeknerd/clas-e-ids?style=plastic&label=BIFURCAÇÕES&labelColor=f9e64f "Total de Bifurcações")
+![Forks](https://img.shields.io/github/forks/Devsgeeknerd/pro-pra-cal-log-ori-obj-ava-ori-obj-bas?style=p&label=Bifurcações&labelColor=800080&color=000fff "Total de Bifurcações")
 &nbsp;
-![repo size](https://img.shields.io/github/repo-size/Devsgeeknerd/clas-e-ids?style=plastic&label=TAMANHO&labelColor=f9e64f "Tamanho do Repositório")
+![Repo Size](https://img.shields.io/github/repo-size/Devsgeeknerd/pro-pra-cal-log-ori-obj-ava-ori-obj-bas?style=p&label=Tamanho&labelColor=800080&color=000fff "Tamanho do Repositório")
 &nbsp;
-![license](https://img.shields.io/github/license/Devsgeeknerd/clas-e-ids?style=plastic&label=LICENÇA&labelColor=f9e64f "Licença do Repositório")
+![License](https://img.shields.io/github/license/Devsgeeknerd/pro-pra-cal-log-ori-obj-ava-ori-obj-bas?style=p&label=Licença&labelColor=800080&color=000fff "Licença do Repositório")
